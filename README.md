@@ -35,7 +35,7 @@ This is a simple and interactive Dice Game built using **HTML**, **CSS**, and **
 ---
 
 ## 📁 Project Structure
-
+```
 dice-game/
 ├── images/
 │ ├── dice1.png
@@ -45,5 +45,5 @@ dice-game/
 ├── styles.css
 ├── index.js
 └── README.md
-
+```
 
